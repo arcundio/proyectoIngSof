@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:tooldataform.core="http:///tooldataform/core.ecore" xmlns:tooldataform.pmoo="http:///tooldataform/pmoo.ecore" xsi:schemaLocation="http:///tooldataform/core.ecore http:///tooldataform.ecore#//core http:///tooldataform/pmoo.ecore http:///tooldataform.ecore#//pmoo">
+  <tooldataform.core:Datos_Diagram xmi:id="_gPe4wYRxEemeoZLzaonNpw">
+    <listClase xmi:type="tooldataform.pmoo:Clase" xmi:id="_gpAMAIRxEemeoZLzaonNpw" name="Domain" id="_t31tgBc7EeiSj8tKu3ogxw" nameSpace="" nameSpaceElement="">
+      <listaMetodos xmi:type="tooldataform.pmoo:Metodo" xmi:id="_dYUjEGsbEeqv98S2YDhvpQ" name="implementarModelo" id="_dXeOgGsbEeqv98S2YDhvpQ" description="" body="void"/>
+    </listClase>
+    <listPackageParent xmi:type="tooldataform.core:Package" xmi:id="_nj3DUFn5Ee2YiviWST8fUw" name="Auxiliar" id="_nj4RcFn5Ee2YiviWST8fUw" pathElementRoot="proyectofi.domain"/>
+    <listPackageParent xmi:type="tooldataform.core:Package" xmi:id="_qGNEQFn5Ee2YiviWST8fUw" name="Ciudadano" id="_qGPggFn5Ee2YiviWST8fUw" pathElementRoot="proyectofi.domain"/>
+    <listPackageParent xmi:type="tooldataform.core:Package" xmi:id="_sBoPIFn5Ee2YiviWST8fUw" name="Contrato" id="_sBo2MFn5Ee2YiviWST8fUw" pathElementRoot="proyectofi.domain"/>
+  </tooldataform.core:Datos_Diagram>
+  <notation:Diagram xmi:id="_gPijIIRxEemeoZLzaonNpw" type="MetamodelodataformDatosDiagram" element="_gPe4wYRxEemeoZLzaonNpw" name="Main" measurementUnit="Pixel">
+    <children xmi:type="notation:Node" xmi:id="_gpCBMIRxEemeoZLzaonNpw" type="2002" element="_gpAMAIRxEemeoZLzaonNpw">
+      <children xmi:type="notation:DecorationNode" xmi:id="_gpCBNYRxEemeoZLzaonNpw" type="5003"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_gpCoQIRxEemeoZLzaonNpw" type="5004"/>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_gpCoQYRxEemeoZLzaonNpw" type="7001">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_gpCoQoRxEemeoZLzaonNpw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_gpCoQ4RxEemeoZLzaonNpw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_gpCoRIRxEemeoZLzaonNpw" type="7002">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_gpCoRYRxEemeoZLzaonNpw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_gpCoRoRxEemeoZLzaonNpw"/>
+      </children>
+      <styles xmi:type="notation:DescriptionStyle" xmi:id="_gpCBMYRxEemeoZLzaonNpw"/>
+      <styles xmi:type="notation:FontStyle" xmi:id="_gpCBMoRxEemeoZLzaonNpw" fontName="Segoe UI"/>
+      <styles xmi:type="notation:FillStyle" xmi:id="_gpCBM4RxEemeoZLzaonNpw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gpCBNIRxEemeoZLzaonNpw" x="315" y="205"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_nkIJEFn5Ee2YiviWST8fUw" type="2001" element="_nj3DUFn5Ee2YiviWST8fUw" fontName="Segoe UI">
+      <children xmi:type="notation:DecorationNode" xmi:id="_nkJXMFn5Ee2YiviWST8fUw" type="5001"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_nkJXMVn5Ee2YiviWST8fUw" type="5002"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_nkIJEVn5Ee2YiviWST8fUw" x="135" y="70"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_qGZ4kFn5Ee2YiviWST8fUw" type="2001" element="_qGNEQFn5Ee2YiviWST8fUw" fontName="Segoe UI">
+      <children xmi:type="notation:DecorationNode" xmi:id="_qGZ4kln5Ee2YiviWST8fUw" type="5001"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_qGZ4k1n5Ee2YiviWST8fUw" type="5002"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qGZ4kVn5Ee2YiviWST8fUw" x="310" y="70"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_sBzOQFn5Ee2YiviWST8fUw" type="2001" element="_sBoPIFn5Ee2YiviWST8fUw" fontName="Segoe UI">
+      <children xmi:type="notation:DecorationNode" xmi:id="_sBz1UFn5Ee2YiviWST8fUw" type="5001"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_sBz1UVn5Ee2YiviWST8fUw" type="5002"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_sBzOQVn5Ee2YiviWST8fUw" x="485" y="70"/>
+    </children>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_gPijIYRxEemeoZLzaonNpw"/>
+  </notation:Diagram>
+</xmi:XMI>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:tooldataform.core="http:///tooldataform/core.ecore" xmlns:tooldataform.pmoo="http:///tooldataform/pmoo.ecore" xsi:schemaLocation="http:///tooldataform/core.ecore http:///tooldataform.ecore#//core http:///tooldataform/pmoo.ecore http:///tooldataform.ecore#//pmoo">
+  <tooldataform.core:Datos_Diagram xmi:id="_dEd20Fn6Ee2YiviWST8fUw">
+    <listClase xmi:type="tooldataform.pmoo:Clase" xmi:id="_eWLWUFn6Ee2YiviWST8fUw" name="FactoryContrato" id="_eWPnwFn6Ee2YiviWST8fUw" pathElementRoot="proyectofi.domain.Contrato"/>
+  </tooldataform.core:Datos_Diagram>
+  <notation:Diagram xmi:id="_dEg6IFn6Ee2YiviWST8fUw" type="MetamodelodataformDatosDiagram" element="_dEd20Fn6Ee2YiviWST8fUw" name="containment" measurementUnit="Pixel">
+    <children xmi:type="notation:Node" xmi:id="_eWW8gFn6Ee2YiviWST8fUw" type="2002" element="_eWLWUFn6Ee2YiviWST8fUw">
+      <children xmi:type="notation:DecorationNode" xmi:id="_eWXjkFn6Ee2YiviWST8fUw" type="5003"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_eWXjkVn6Ee2YiviWST8fUw" type="5004"/>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_eWXjkln6Ee2YiviWST8fUw" type="7001">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_eWXjk1n6Ee2YiviWST8fUw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_eWXjlFn6Ee2YiviWST8fUw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_eWXjlVn6Ee2YiviWST8fUw" type="7002">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_eWXjlln6Ee2YiviWST8fUw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_eWXjl1n6Ee2YiviWST8fUw"/>
+      </children>
+      <styles xmi:type="notation:DescriptionStyle" xmi:id="_eWW8gVn6Ee2YiviWST8fUw"/>
+      <styles xmi:type="notation:FontStyle" xmi:id="_eWW8gln6Ee2YiviWST8fUw" fontName="Segoe UI"/>
+      <styles xmi:type="notation:FillStyle" xmi:id="_eWW8g1n6Ee2YiviWST8fUw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eWW8hFn6Ee2YiviWST8fUw" x="369" y="108"/>
+    </children>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_dEg6IVn6Ee2YiviWST8fUw"/>
+  </notation:Diagram>
+</xmi:XMI>

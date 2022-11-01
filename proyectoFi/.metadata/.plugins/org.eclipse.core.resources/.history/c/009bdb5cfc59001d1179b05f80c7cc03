@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:tooldataform.core="http:///tooldataform/core.ecore" xmlns:tooldataform.pmoo="http:///tooldataform/pmoo.ecore" xsi:schemaLocation="http:///tooldataform/core.ecore http:///tooldataform.ecore#//core http:///tooldataform/pmoo.ecore http:///tooldataform.ecore#//pmoo">
+  <tooldataform.core:Datos_Diagram xmi:id="_DLv6cVn8Ee2YiviWST8fUw">
+    <listClase xmi:type="tooldataform.pmoo:Clase" xmi:id="_FQO6sFn8Ee2YiviWST8fUw" name="FactoryAuxiliar" id="_FQSlEFn8Ee2YiviWST8fUw" pathElementRoot="proyectofi.domain.Auxiliar"/>
+    <listClase xmi:type="tooldataform.pmoo:Clase" xmi:id="_IZP6EFn8Ee2YiviWST8fUw" name="Auxiliar" id="_IZP6EVn8Ee2YiviWST8fUw" pathElementRoot="proyectofi.domain.Auxiliar"/>
+    <listClase xmi:type="tooldataform.pmoo:Clase" xmi:id="_QVFIMFn8Ee2YiviWST8fUw" name="Ciudadano" id="_yzYPwFn5Ee2YiviWST8fUw" type="System" pathElementRoot="proyectofi.domain.Ciudadano" typeElement="Class" urlIcon="platform:/plugin/tooldataform.datosdiagram/icons/Clase.gif" nameSpace="(from: Ciudadano)" nameSpaceElement="(from: Ciudadano)">
+      <listaAtributos xmi:type="tooldataform.pmoo:Atributo" xmi:id="_QVk3cFn8Ee2YiviWST8fUw" name="id" id="_4BghgFn5Ee2YiviWST8fUw" type="String" pathElementRoot="proyectofi.domain.Ciudadano" namePresentation="id:String"/>
+      <listaAtributos xmi:type="tooldataform.pmoo:Atributo" xmi:id="_QVk3cVn8Ee2YiviWST8fUw" name="cedula" id="_42_YAFn5Ee2YiviWST8fUw" type="String" pathElementRoot="proyectofi.domain.Ciudadano" namePresentation="cedula:String"/>
+      <listaAtributos xmi:type="tooldataform.pmoo:Atributo" xmi:id="_QVk3cln8Ee2YiviWST8fUw" name="nombre" id="_7t4soFn5Ee2YiviWST8fUw" type="String" pathElementRoot="proyectofi.domain.Ciudadano" namePresentation="nombre:String"/>
+      <listaAtributos xmi:type="tooldataform.pmoo:Atributo" xmi:id="_QVk3c1n8Ee2YiviWST8fUw" name="apellido" id="_9R42AFn5Ee2YiviWST8fUw" type="String" pathElementRoot="proyectofi.domain.Ciudadano" namePresentation="apellido:String"/>
+      <listaAtributos xmi:type="tooldataform.pmoo:Atributo" xmi:id="_QVk3dFn8Ee2YiviWST8fUw" name="direccion" id="_K8Q7UFn6Ee2YiviWST8fUw" type="String" pathElementRoot="proyectofi.domain.Ciudadano" namePresentation="direccion:String"/>
+      <listaAtributos xmi:type="tooldataform.pmoo:Atributo" xmi:id="_QVk3dVn8Ee2YiviWST8fUw" name="estado" id="_MJ_SsVn6Ee2YiviWST8fUw" type="String" pathElementRoot="proyectofi.domain.Ciudadano" namePresentation="estado:String"/>
+      <listaAtributos xmi:type="tooldataform.pmoo:Atributo" xmi:id="_QVk3dln8Ee2YiviWST8fUw" name="telefono" id="_QFmzsVn6Ee2YiviWST8fUw" type="String" pathElementRoot="proyectofi.domain.Ciudadano" namePresentation="telefono:String"/>
+      <listaAtributos xmi:type="tooldataform.pmoo:Atributo" xmi:id="_QVk3d1n8Ee2YiviWST8fUw" name="email" id="_RDc8AFn6Ee2YiviWST8fUw" type="String" pathElementRoot="proyectofi.domain.Ciudadano" namePresentation="email:String"/>
+      <listaAtributos xmi:type="tooldataform.pmoo:Atributo" xmi:id="_QVk3eFn8Ee2YiviWST8fUw" name="fechaNacimiento" id="_SJn54Fn6Ee2YiviWST8fUw" type="String" pathElementRoot="proyectofi.domain.Ciudadano" namePresentation="fechaNacimiento:String"/>
+      <listaAtributos xmi:type="tooldataform.pmoo:Atributo" xmi:id="_QVk3eVn8Ee2YiviWST8fUw" name="genero" id="_UUU24Fn6Ee2YiviWST8fUw" type="String" pathElementRoot="proyectofi.domain.Ciudadano" namePresentation="genero:String"/>
+    </listClase>
+    <listClase xmi:type="tooldataform.pmoo:Clase" xmi:id="_Qp_oQFn8Ee2YiviWST8fUw" name="Contrato" id="_fsg3IFn6Ee2YiviWST8fUw" type="System" pathElementRoot="proyectofi.domain.Contrato" typeElement="Class" urlIcon="platform:/plugin/tooldataform.datosdiagram/icons/Clase.gif" nameSpace="(from: Contrato)" nameSpaceElement="(from: Contrato)">
+      <listaAtributos xmi:type="tooldataform.pmoo:Atributo" xmi:id="_QqWNkFn8Ee2YiviWST8fUw" name="id" id="_ieR0IFn6Ee2YiviWST8fUw" type="String" pathElementRoot="proyectofi.domain.Contrato" namePresentation="id:String"/>
+      <listaAtributos xmi:type="tooldataform.pmoo:Atributo" xmi:id="_QqWNkVn8Ee2YiviWST8fUw" name="codigo" id="_jhK0gVn6Ee2YiviWST8fUw" type="String" pathElementRoot="proyectofi.domain.Contrato" namePresentation="codigo:String"/>
+      <listaAtributos xmi:type="tooldataform.pmoo:Atributo" xmi:id="_QqWNkln8Ee2YiviWST8fUw" name="estado" id="_lDOdIFn6Ee2YiviWST8fUw" type="String" pathElementRoot="proyectofi.domain.Contrato" namePresentation="estado:String"/>
+      <listaAtributos xmi:type="tooldataform.pmoo:Atributo" xmi:id="_QqWNk1n8Ee2YiviWST8fUw" name="fecha" id="_mb3rEFn6Ee2YiviWST8fUw" type="String" pathElementRoot="proyectofi.domain.Contrato" namePresentation="fecha:String"/>
+      <listaAtributos xmi:type="tooldataform.pmoo:Atributo" xmi:id="_QqWNlFn8Ee2YiviWST8fUw" name="duracion" id="_nr6WoFn6Ee2YiviWST8fUw" type="String" pathElementRoot="proyectofi.domain.Contrato" namePresentation="duracion:String"/>
+      <listaAtributos xmi:type="tooldataform.pmoo:Atributo" xmi:id="_QqWNlVn8Ee2YiviWST8fUw" name="concepto" id="_pMIMMFn6Ee2YiviWST8fUw" type="String" pathElementRoot="proyectofi.domain.Contrato" namePresentation="concepto:String"/>
+      <listaAtributos xmi:type="tooldataform.pmoo:Atributo" xmi:id="_QqWNlln8Ee2YiviWST8fUw" name="salario" id="_qKtUUFn6Ee2YiviWST8fUw" type="String" pathElementRoot="proyectofi.domain.Contrato" namePresentation="salario:String"/>
+    </listClase>
+    <listClase xmi:type="tooldataform.pmoo:Clase" xmi:id="_RTeqIFn8Ee2YiviWST8fUw" name="Posicion" id="_xqsT8Vn6Ee2YiviWST8fUw" type="System" pathElementRoot="proyectofi.domain.Posicion" typeElement="Class" urlIcon="platform:/plugin/tooldataform.datosdiagram/icons/Clase.gif" nameSpace="(from: Posicion)" nameSpaceElement="(from: Posicion)">
+      <listaAtributos xmi:type="tooldataform.pmoo:Atributo" xmi:id="_RT450Fn8Ee2YiviWST8fUw" name="cargo" id="_8NgLYFn6Ee2YiviWST8fUw" type="String" pathElementRoot="proyectofi.domain.Posicion" namePresentation="cargo:String"/>
+      <listaAtributos xmi:type="tooldataform.pmoo:Atributo" xmi:id="_RT450Vn8Ee2YiviWST8fUw" name="cedula" id="_4ynY4Fn6Ee2YiviWST8fUw" type="String" pathElementRoot="proyectofi.domain.Posicion" namePresentation="cedula:String"/>
+      <listaAtributos xmi:type="tooldataform.pmoo:Atributo" xmi:id="_RT450ln8Ee2YiviWST8fUw" name="codigo" id="_-7DWwFn6Ee2YiviWST8fUw" type="String" pathElementRoot="proyectofi.domain.Posicion" namePresentation="codigo:String"/>
+      <listaAtributos xmi:type="tooldataform.pmoo:Atributo" xmi:id="_RT4501n8Ee2YiviWST8fUw" name="descripcion" id="_APD8UFn7Ee2YiviWST8fUw" type="String" pathElementRoot="proyectofi.domain.Posicion" namePresentation="descripcion:String"/>
+      <listaAtributos xmi:type="tooldataform.pmoo:Atributo" xmi:id="_RT451Fn8Ee2YiviWST8fUw" name="estado" id="_ET2ncFn7Ee2YiviWST8fUw" type="String" pathElementRoot="proyectofi.domain.Posicion" namePresentation="estado:String"/>
+      <listaAtributos xmi:type="tooldataform.pmoo:Atributo" xmi:id="_RT451Vn8Ee2YiviWST8fUw" name="id" id="_0zEaIVn6Ee2YiviWST8fUw" type="String" pathElementRoot="proyectofi.domain.Posicion" namePresentation="id:String"/>
+      <listaAtributos xmi:type="tooldataform.pmoo:Atributo" xmi:id="_RT451ln8Ee2YiviWST8fUw" name="responsabilidad" id="_9UmWUVn6Ee2YiviWST8fUw" type="String" pathElementRoot="proyectofi.domain.Posicion" namePresentation="responsabilidad:String"/>
+      <listaAtributos xmi:type="tooldataform.pmoo:Atributo" xmi:id="_RT4511n8Ee2YiviWST8fUw" name="rol" id="_CvyzsFn7Ee2YiviWST8fUw" type="String" pathElementRoot="proyectofi.domain.Posicion" namePresentation="rol:String"/>
+      <listaAtributos xmi:type="tooldataform.pmoo:Atributo" xmi:id="_RT452Fn8Ee2YiviWST8fUw" name="salario" id="_7HJAQFn6Ee2YiviWST8fUw" type="String" pathElementRoot="proyectofi.domain.Posicion" namePresentation="salario:String"/>
+      <listaAtributos xmi:type="tooldataform.pmoo:Atributo" xmi:id="_RT452Vn8Ee2YiviWST8fUw" name="tareas" id="_B1rU0Fn7Ee2YiviWST8fUw" type="String" pathElementRoot="proyectofi.domain.Posicion" namePresentation="tareas:String"/>
+    </listClase>
+    <listRelacion_Data xmi:type="tooldataform.pmoo:Relacion_Data" xmi:id="_Lf_okFn8Ee2YiviWST8fUw" name="lstFactoryAuxiliar(FactoryAuxiliar)" id="_Lf_okVn8Ee2YiviWST8fUw" aRol="lstAuxiliar" bRol="ownedByFactoryAuxiliar" bMultiplicidad="_1" multiplicidadB=" " multiplicidadA="*" aContainment="si" aAgregacion="si" source="_IZP6EFn8Ee2YiviWST8fUw" target="_FQO6sFn8Ee2YiviWST8fUw"/>
+    <listRelacion_Data xmi:type="tooldataform.pmoo:Relacion_Data" xmi:id="_QqG9AFn8Ee2YiviWST8fUw" id="_1V7aIVn7Ee2YiviWST8fUw" aRol="theCiudadano" bRol="lstContrato" aMultiplicidad="_1" multiplicidadB="*" multiplicidadA="1" source="_QVFIMFn8Ee2YiviWST8fUw" target="_Qp_oQFn8Ee2YiviWST8fUw"/>
+    <listRelacion_Data xmi:type="tooldataform.pmoo:Relacion_Data" xmi:id="_RTpCMFn8Ee2YiviWST8fUw" id="_p679gVn7Ee2YiviWST8fUw" aRol="lstContrato" bRol="thePosicion" bMultiplicidad="_1" multiplicidadB="1" multiplicidadA="*" source="_Qp_oQFn8Ee2YiviWST8fUw" target="_RTeqIFn8Ee2YiviWST8fUw"/>
+  </tooldataform.core:Datos_Diagram>
+  <notation:Diagram xmi:id="_DLxvoFn8Ee2YiviWST8fUw" type="MetamodelodataformDatosDiagram" element="_DLv6cVn8Ee2YiviWST8fUw" name="containment" measurementUnit="Pixel">
+    <children xmi:type="notation:Node" xmi:id="_FQZ50Fn8Ee2YiviWST8fUw" type="2002" element="_FQO6sFn8Ee2YiviWST8fUw">
+      <children xmi:type="notation:DecorationNode" xmi:id="_FQZ51Vn8Ee2YiviWST8fUw" type="5003"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_FQZ51ln8Ee2YiviWST8fUw" type="5004"/>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_FQZ511n8Ee2YiviWST8fUw" type="7001">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_FQZ52Fn8Ee2YiviWST8fUw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_FQZ52Vn8Ee2YiviWST8fUw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_FQZ52ln8Ee2YiviWST8fUw" type="7002">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_FQZ521n8Ee2YiviWST8fUw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_FQZ53Fn8Ee2YiviWST8fUw"/>
+      </children>
+      <styles xmi:type="notation:DescriptionStyle" xmi:id="_FQZ50Vn8Ee2YiviWST8fUw"/>
+      <styles xmi:type="notation:FontStyle" xmi:id="_FQZ50ln8Ee2YiviWST8fUw" fontName="Segoe UI"/>
+      <styles xmi:type="notation:FillStyle" xmi:id="_FQZ501n8Ee2YiviWST8fUw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_FQZ51Fn8Ee2YiviWST8fUw" x="165" y="61"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_IZSWUFn8Ee2YiviWST8fUw" type="2002" element="_IZP6EFn8Ee2YiviWST8fUw">
+      <children xmi:type="notation:DecorationNode" xmi:id="_IZSWVVn8Ee2YiviWST8fUw" type="5003"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_IZSWVln8Ee2YiviWST8fUw" type="5004"/>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_IZSWV1n8Ee2YiviWST8fUw" type="7001">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_IZSWWFn8Ee2YiviWST8fUw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_IZSWWVn8Ee2YiviWST8fUw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_IZSWWln8Ee2YiviWST8fUw" type="7002">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_IZSWW1n8Ee2YiviWST8fUw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_IZSWXFn8Ee2YiviWST8fUw"/>
+      </children>
+      <styles xmi:type="notation:DescriptionStyle" xmi:id="_IZSWUVn8Ee2YiviWST8fUw"/>
+      <styles xmi:type="notation:FontStyle" xmi:id="_IZSWUln8Ee2YiviWST8fUw" fontName="Segoe UI"/>
+      <styles xmi:type="notation:FillStyle" xmi:id="_IZSWU1n8Ee2YiviWST8fUw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_IZSWVFn8Ee2YiviWST8fUw" x="165" y="200"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_QVFIMVn8Ee2YiviWST8fUw" type="2002" element="_QVFIMFn8Ee2YiviWST8fUw">
+      <children xmi:type="notation:DecorationNode" xmi:id="_QVFINln8Ee2YiviWST8fUw" type="5003"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_QVFIN1n8Ee2YiviWST8fUw" type="5004"/>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_QVFIOFn8Ee2YiviWST8fUw" type="7001">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_QVFIOVn8Ee2YiviWST8fUw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_QVFIOln8Ee2YiviWST8fUw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_QVFIO1n8Ee2YiviWST8fUw" type="7002">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_QVFIPFn8Ee2YiviWST8fUw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_QVFIPVn8Ee2YiviWST8fUw"/>
+      </children>
+      <styles xmi:type="notation:DescriptionStyle" xmi:id="_QVFIMln8Ee2YiviWST8fUw"/>
+      <styles xmi:type="notation:FontStyle" xmi:id="_QVFIM1n8Ee2YiviWST8fUw" fontName="Segoe UI"/>
+      <styles xmi:type="notation:FillStyle" xmi:id="_QVFINFn8Ee2YiviWST8fUw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QVFINVn8Ee2YiviWST8fUw" x="196" y="390"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_QqCEgFn8Ee2YiviWST8fUw" type="2002" element="_Qp_oQFn8Ee2YiviWST8fUw">
+      <children xmi:type="notation:DecorationNode" xmi:id="_QqEgwFn8Ee2YiviWST8fUw" type="5003"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_QqEgwVn8Ee2YiviWST8fUw" type="5004"/>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_QqEgwln8Ee2YiviWST8fUw" type="7001">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_QqEgw1n8Ee2YiviWST8fUw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_QqEgxFn8Ee2YiviWST8fUw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_QqEgxVn8Ee2YiviWST8fUw" type="7002">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_QqEgxln8Ee2YiviWST8fUw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_QqEgx1n8Ee2YiviWST8fUw"/>
+      </children>
+      <styles xmi:type="notation:DescriptionStyle" xmi:id="_QqCEgVn8Ee2YiviWST8fUw"/>
+      <styles xmi:type="notation:FontStyle" xmi:id="_QqCEgln8Ee2YiviWST8fUw" fontName="Segoe UI"/>
+      <styles xmi:type="notation:FillStyle" xmi:id="_QqCEg1n8Ee2YiviWST8fUw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QqCEhFn8Ee2YiviWST8fUw" x="455" y="360"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_RTjioFn8Ee2YiviWST8fUw" type="2002" element="_RTeqIFn8Ee2YiviWST8fUw">
+      <children xmi:type="notation:DecorationNode" xmi:id="_RTkwwFn8Ee2YiviWST8fUw" type="5003"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_RTkwwVn8Ee2YiviWST8fUw" type="5004"/>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_RTkwwln8Ee2YiviWST8fUw" type="7001">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_RTkww1n8Ee2YiviWST8fUw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_RTkwxFn8Ee2YiviWST8fUw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_RTkwxVn8Ee2YiviWST8fUw" type="7002">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_RTkwxln8Ee2YiviWST8fUw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_RTkwx1n8Ee2YiviWST8fUw"/>
+      </children>
+      <styles xmi:type="notation:DescriptionStyle" xmi:id="_RTjioVn8Ee2YiviWST8fUw"/>
+      <styles xmi:type="notation:FontStyle" xmi:id="_RTjioln8Ee2YiviWST8fUw" fontName="Segoe UI"/>
+      <styles xmi:type="notation:FillStyle" xmi:id="_RTjio1n8Ee2YiviWST8fUw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_RTjipFn8Ee2YiviWST8fUw" x="531" y="250"/>
+    </children>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_DLxvoVn8Ee2YiviWST8fUw"/>
+    <edges xmi:type="notation:Connector" xmi:id="_LgLOwFn8Ee2YiviWST8fUw" type="4002" element="_Lf_okFn8Ee2YiviWST8fUw" source="_IZSWUFn8Ee2YiviWST8fUw" target="_FQZ50Fn8Ee2YiviWST8fUw" routing="Rectilinear">
+      <children xmi:type="notation:DecorationNode" xmi:id="_LgLOw1n8Ee2YiviWST8fUw" type="6001">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_LgLOxFn8Ee2YiviWST8fUw" x="3" y="47"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_LgLOxVn8Ee2YiviWST8fUw" type="6002">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_LgLOxln8Ee2YiviWST8fUw" x="-3" y="-96"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_LgLOx1n8Ee2YiviWST8fUw" type="6003">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_LgLOyFn8Ee2YiviWST8fUw" x="16" y="-12"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_LgLOyVn8Ee2YiviWST8fUw" type="6004">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_LgLOyln8Ee2YiviWST8fUw" y="10"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_LgLOwVn8Ee2YiviWST8fUw" fontName="Segoe UI"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_LgLOwln8Ee2YiviWST8fUw" points="[0, -7, 0, 93]$[26, -96, 26, 4]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_LgLOy1n8Ee2YiviWST8fUw" id="(0.7833333333333333,0.0875)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_LgLOzFn8Ee2YiviWST8fUw" id="(0.7833333333333333,0.575)"/>
+    </edges>
+  </notation:Diagram>
+</xmi:XMI>
